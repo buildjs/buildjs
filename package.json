@@ -1,0 +1,23 @@
+{
+  "name": "buildjs-site",
+  "description": "BuildJS Documentation Site",
+  "author": "Damon Oehlman <damon.oehlman@sidelab.com>",
+  "tags": [
+    "buildjs"
+  ],
+  "private": "true",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "docpad": "6.1.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/buildjs/buildjs.git"
+  },
+  "bugs": {
+    "url": "http://github.com/buildjs/buildjs/issues"
+  },
+  "contributors": []
+}
